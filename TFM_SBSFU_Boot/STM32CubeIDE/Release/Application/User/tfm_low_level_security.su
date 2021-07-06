@@ -1,0 +1,5 @@
+tfm_low_level_security.c:1073:13:enable_hdp_protection	0	static
+tfm_low_level_security.c:95:6:TFM_LL_SECU_UpdateLoaderRunTimeProtections	24	static,ignoring_inline_asm
+tfm_low_level_security.c:116:6:TFM_LL_SECU_ApplyRunTimeProtections	128	static,ignoring_inline_asm
+tfm_low_level_security.c:147:6:TFM_LL_SECU_UpdateRunTimeProtections	32	static
+tfm_low_level_security.c:174:6:TFM_LL_SECU_CheckStaticProtections	24	static

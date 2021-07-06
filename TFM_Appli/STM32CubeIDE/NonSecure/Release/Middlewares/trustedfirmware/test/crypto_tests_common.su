@@ -1,0 +1,9 @@
+crypto_tests_common.c:15:6:psa_key_interface_test	88	static
+crypto_tests_common.c:109:6:psa_cipher_test	208	static
+crypto_tests_common.c:324:6:psa_invalid_cipher_test	112	static
+crypto_tests_common.c:425:6:psa_hash_test	24	static
+crypto_tests_common.c:508:6:psa_mac_test	104	static
+crypto_tests_common.c:632:6:psa_aead_test	240	static
+crypto_tests_common.c:763:6:psa_invalid_key_length_test	48	static
+crypto_tests_common.c:803:6:psa_policy_key_interface_test	48	static
+crypto_tests_common.c:901:6:psa_policy_invalid_policy_usage_test	80	static

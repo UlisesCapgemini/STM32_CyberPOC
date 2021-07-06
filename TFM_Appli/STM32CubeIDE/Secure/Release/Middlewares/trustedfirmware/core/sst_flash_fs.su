@@ -1,0 +1,8 @@
+sst_flash_fs.c:49:17:sst_flash_fs_prepare	0	static
+sst_flash_fs.c:55:17:sst_flash_fs_wipe_all	0	static
+sst_flash_fs.c:61:17:sst_flash_fs_file_exist	16	static
+sst_flash_fs.c:74:17:sst_flash_fs_file_create	80	static
+sst_flash_fs.c:178:17:sst_flash_fs_file_get_info	48	static
+sst_flash_fs.c:208:17:sst_flash_fs_file_write	64	static
+sst_flash_fs.c:303:17:sst_flash_fs_file_delete	72	static
+sst_flash_fs.c:424:17:sst_flash_fs_file_read	56	static

@@ -1,0 +1,2 @@
+attestation_key.c:61:1:attest_register_initial_attestation_private_key	152	static
+attestation_key.c:125:1:attest_unregister_initial_attestation_private_key	8	static

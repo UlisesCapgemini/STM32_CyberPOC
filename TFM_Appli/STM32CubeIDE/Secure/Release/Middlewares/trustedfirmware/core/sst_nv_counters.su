@@ -1,0 +1,3 @@
+sst_nv_counters.c:10:17:sst_init_nv_counter	8	static
+sst_nv_counters.c:22:17:sst_read_nv_counter	8	static
+sst_nv_counters.c:36:17:sst_increment_nv_counter	8	static

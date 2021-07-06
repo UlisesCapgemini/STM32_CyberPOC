@@ -1,0 +1,5 @@
+swap_scratch.c:50:1:boot_read_image_header	16	static
+swap_scratch.c:89:1:swap_read_status_bytes	48	static
+swap_scratch.c:157:1:boot_status_internal_off	8	static
+swap_scratch.c:174:1:boot_slots_compatible	24	static
+swap_scratch.c:362:1:swap_status_source	56	static

@@ -1,0 +1,8 @@
+ecp_curves_alt.c:1351:12:ecp_mod_p448	176	static
+ecp_curves_alt.c:1294:12:ecp_mod_p255	72	static
+ecp_curves_alt.c:593:12:ecp_group_load	32	static
+ecp_curves_alt.c:1412:19:ecp_mod_koblitz.constprop	112	static
+ecp_curves_alt.c:1486:12:ecp_mod_p192k1	0	static
+ecp_curves_alt.c:1500:12:ecp_mod_p224k1	0	static
+ecp_curves_alt.c:1519:12:ecp_mod_p256k1	0	static
+ecp_curves_alt.c:813:5:mbedtls_ecp_group_load	72	static

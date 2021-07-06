@@ -1,0 +1,6 @@
+tfm_its_req_mngr.c:299:21:tfm_its_remove_ipc	16	static
+tfm_its_req_mngr.c:273:21:tfm_its_get_info_ipc	56	static
+tfm_its_req_mngr.c:237:21:tfm_its_get_ipc	48	static
+tfm_its_req_mngr.c:200:21:tfm_its_set_ipc	56	static
+tfm_its_req_mngr.c:327:13:its_signal_handle	56	static
+tfm_its_req_mngr.c:354:14:tfm_its_req_mngr_init	16	static

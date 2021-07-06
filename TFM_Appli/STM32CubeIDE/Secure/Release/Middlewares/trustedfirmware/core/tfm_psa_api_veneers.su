@@ -1,0 +1,7 @@
+tfm_psa_api_veneers.c:51:16:tfm_core_ipc_request	0	static,ignoring_inline_asm
+tfm_psa_api_veneers.c:100:10:tfm_psa_framework_version_veneer	48	static,ignoring_inline_asm
+tfm_psa_api_veneers.c:107:10:tfm_psa_version_veneer	48	static,ignoring_inline_asm
+tfm_psa_api_veneers.c:114:14:tfm_psa_connect_veneer	48	static,ignoring_inline_asm
+tfm_psa_api_veneers.c:121:14:tfm_psa_call_veneer	48	static,ignoring_inline_asm
+tfm_psa_api_veneers.c:130:14:tfm_psa_close_veneer	48	static,ignoring_inline_asm
+tfm_psa_api_veneers.c:136:6:tfm_psa_ipc_request_handler	16	static

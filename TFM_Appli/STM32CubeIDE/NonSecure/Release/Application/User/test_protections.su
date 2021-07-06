@@ -1,0 +1,3 @@
+test_protections.c:367:13:TEST_PROTECTIONS_PrintTestingMenu	8	static
+test_protections.c:151:6:TEST_PROTECTIONS_Run_SecUserMem	72	static
+test_protections.c:106:6:TEST_PROTECTIONS_Run	48	static,ignoring_inline_asm

@@ -1,0 +1,4 @@
+tfm_core_log.c:22:6:tfm_core_log_puts	16	static
+tfm_core_log.c:32:6:tfm_core_log_putc	16	static
+tfm_core_log.c:37:6:tfm_core_log_put_buf	16	static
+tfm_core_log.c:55:6:tfm_core_log_hex	24	static

@@ -1,0 +1,5 @@
+test_framework.c:32:13:print_error	8	static
+test_framework.c:38:13:test_err_to_str	0	static
+test_framework.c:57:23:set_testsuite	8	static
+test_framework.c:73:6:set_test_failed	4	static
+test_framework.c:87:23:run_testsuite	32	static

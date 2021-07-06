@@ -1,0 +1,5 @@
+spm_api.c:30:10:get_partition_idx	12	static
+spm_api.c:47:16:tfm_spm_db_init	20	static
+spm_api.c:80:10:tfm_spm_partition_get_partition_id	0	static
+spm_api.c:86:10:tfm_spm_partition_get_flags	0	static
+spm_api.c:93:6:tfm_spm_partition_change_privilege	0	static,ignoring_inline_asm

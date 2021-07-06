@@ -1,0 +1,10 @@
+sst_crypto_interface.c:31:17:sst_crypto_init	0	static
+sst_crypto_interface.c:39:17:sst_crypto_getkey	8	static
+sst_crypto_interface.c:59:17:sst_crypto_setkey	32	static
+sst_crypto_interface.c:85:17:sst_crypto_destroykey	8	static
+sst_crypto_interface.c:98:6:sst_crypto_set_iv	0	static
+sst_crypto_interface.c:103:6:sst_crypto_get_iv	24	static
+sst_crypto_interface.c:145:17:sst_crypto_encrypt_and_tag	56	static
+sst_crypto_interface.c:172:17:sst_crypto_auth_and_decrypt	56	static
+sst_crypto_interface.c:199:17:sst_crypto_generate_auth_tag	48	static
+sst_crypto_interface.c:218:17:sst_crypto_authenticate	48	static

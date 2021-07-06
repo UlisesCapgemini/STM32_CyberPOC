@@ -1,0 +1,8 @@
+crypto_generator.c:27:14:tfm_crypto_get_generator_capacity	24	static
+crypto_generator.c:63:14:tfm_crypto_generator_read	24	static
+crypto_generator.c:98:14:tfm_crypto_generator_import_key	32	static
+crypto_generator.c:140:14:tfm_crypto_generator_abort	24	static
+crypto_generator.c:190:14:tfm_crypto_key_derivation	72	static
+crypto_generator.c:256:14:tfm_crypto_key_agreement	48	static
+crypto_generator.c:309:14:tfm_crypto_generate_random	0	static
+crypto_generator.c:331:14:tfm_crypto_generate_key	40	static

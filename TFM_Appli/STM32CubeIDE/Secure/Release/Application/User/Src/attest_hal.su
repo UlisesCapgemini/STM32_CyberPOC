@@ -1,0 +1,3 @@
+attest_hal.c:17:31:tfm_attest_hal_get_security_lifecycle	0	static
+attest_hal.c:23:1:tfm_attest_hal_get_verification_service	0	static
+attest_hal.c:31:1:tfm_attest_hal_get_profile_definition	0	static

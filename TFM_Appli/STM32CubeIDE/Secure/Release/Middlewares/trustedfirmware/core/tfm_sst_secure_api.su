@@ -1,0 +1,7 @@
+tfm_sst_secure_api.c:17:17:psa_ps_set	72	static
+tfm_sst_secure_api.c:64:17:psa_ps_get	80	static
+tfm_sst_secure_api.c:111:17:psa_ps_get_info	64	static
+tfm_sst_secure_api.c:155:17:psa_ps_remove	56	static
+tfm_sst_secure_api.c:198:17:psa_ps_create	0	static
+tfm_sst_secure_api.c:209:17:psa_ps_set_extended	0	static
+tfm_sst_secure_api.c:221:10:psa_ps_get_support	40	static

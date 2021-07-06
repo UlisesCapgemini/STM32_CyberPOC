@@ -1,0 +1,3 @@
+tfm_message_queue.c:11:9:tfm_msg_enqueue	0	static
+tfm_message_queue.c:29:24:tfm_msg_dequeue	0	static
+tfm_message_queue.c:47:9:tfm_msg_queue_is_empty	0	static

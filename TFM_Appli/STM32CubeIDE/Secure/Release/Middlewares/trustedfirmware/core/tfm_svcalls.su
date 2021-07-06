@@ -1,0 +1,9 @@
+tfm_svcalls.c:39:10:tfm_svcall_psa_framework_version	0	static
+tfm_svcalls.c:44:10:tfm_svcall_psa_version	8	static
+tfm_svcalls.c:71:14:tfm_svcall_psa_connect	48	static
+tfm_svcalls.c:133:14:tfm_svcall_psa_call	144	static
+tfm_svcalls.c:295:6:tfm_svcall_psa_close	48	static
+tfm_svcalls.c:953:6:tfm_irq_handler	16	static
+tfm_svcalls.c:1072:6:tfm_svcall_enable_irq	8	static
+tfm_svcalls.c:1100:6:tfm_svcall_disable_irq	8	static
+tfm_svcalls.c:1128:9:SVC_Handler_IPC	40	static,ignoring_inline_asm

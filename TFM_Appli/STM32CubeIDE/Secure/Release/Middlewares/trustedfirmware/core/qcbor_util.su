@@ -1,0 +1,5 @@
+qcbor_util.c:18:1:qcbor_util_consume_item	56	static
+qcbor_util.c:62:1:qcbor_util_get_items_in_map	72	static
+qcbor_util.c:133:1:qcbor_util_decode_to_labeled_item	64	static
+qcbor_util.c:191:1:qcbor_util_get_item_in_map	112	static
+qcbor_util.c:222:1:qcbor_util_get_top_level_item_in_map	176	static

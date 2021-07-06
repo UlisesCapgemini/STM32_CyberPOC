@@ -1,0 +1,14 @@
+qcbor_encode.c:267:13:InsertEncodedTypeAndNumber	56	static
+qcbor_encode.c:344:20:AppendEncodedTypeAndNumber	24	static
+qcbor_encode.c:117:26:Nesting_Increment.isra.3	0	static
+qcbor_encode.c:212:6:QCBOREncode_Init	24	static
+qcbor_encode.c:362:6:QCBOREncode_AddUInt64	8	static
+qcbor_encode.c:374:6:QCBOREncode_AddInt64	16	static
+qcbor_encode.c:415:6:QCBOREncode_AddBuffer	32	static
+qcbor_encode.c:441:6:QCBOREncode_AddTag	0	static
+qcbor_encode.c:453:6:QCBOREncode_AddType7	32	static
+qcbor_encode.c:475:6:QCBOREncode_AddDouble	32	static
+qcbor_encode.c:489:6:QCBOREncode_OpenMapOrArray	16	static
+qcbor_encode.c:522:6:QCBOREncode_CloseMapOrArray	48	static
+qcbor_encode.c:577:12:QCBOREncode_Finish	24	static
+qcbor_encode.c:611:12:QCBOREncode_FinishGetSize	16	static

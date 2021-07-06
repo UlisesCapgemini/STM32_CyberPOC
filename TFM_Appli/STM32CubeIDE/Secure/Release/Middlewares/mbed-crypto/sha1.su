@@ -1,0 +1,2 @@
+sha1.c:439:5:mbedtls_sha1_ret	392	static
+sha1.c:467:6:mbedtls_sha1	0	static

@@ -1,0 +1,5 @@
+its_flash_fs_dblock.c:32:14:its_flash_fs_dblock_compact_block	56	static
+its_flash_fs_dblock.c:101:14:its_flash_fs_dblock_cp_data_to_scratch	48	static
+its_flash_fs_dblock.c:123:14:its_flash_fs_dblock_read_file	40	static
+its_flash_fs_dblock.c:141:14:its_flash_fs_dblock_write_file	16	static
+its_flash_fs_dblock.c:153:14:its_flash_fs_dblock_cp_remaining_data	24	static

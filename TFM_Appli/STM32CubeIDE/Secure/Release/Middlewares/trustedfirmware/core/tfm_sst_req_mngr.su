@@ -1,0 +1,9 @@
+tfm_sst_req_mngr.c:390:21:tfm_sst_remove_ipc	32	static
+tfm_sst_req_mngr.c:358:21:tfm_sst_get_info_ipc	56	static
+tfm_sst_req_mngr.c:323:21:tfm_sst_get_ipc	48	static
+tfm_sst_req_mngr.c:288:21:tfm_sst_set_ipc	48	static
+tfm_sst_req_mngr.c:416:21:tfm_sst_get_support_ipc	24	static
+tfm_sst_req_mngr.c:442:13:ps_signal_handle	16	static
+tfm_sst_req_mngr.c:464:17:tfm_sst_req_mngr_init	16	static
+tfm_sst_req_mngr.c:498:17:sst_req_mngr_read_asset_data	8	static
+tfm_sst_req_mngr.c:512:6:sst_req_mngr_write_asset_data	0	static

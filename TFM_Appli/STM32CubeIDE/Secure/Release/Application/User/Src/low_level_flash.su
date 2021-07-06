@@ -1,0 +1,11 @@
+low_level_flash.c:212:27:ARM_Flash_GetVersion	8	static
+low_level_flash.c:217:31:ARM_Flash_GetCapabilities	0	static
+low_level_flash.c:229:16:ARM_Flash_Uninitialize	0	static
+low_level_flash.c:234:16:ARM_Flash_PowerControl	0	static
+low_level_flash.c:381:16:ARM_Flash_EraseChip	0	static
+low_level_flash.c:386:25:ARM_Flash_GetStatus	0	static
+low_level_flash.c:391:25:ARM_Flash_GetInfo	0	static
+low_level_flash.c:248:16:ARM_Flash_ReadData	8	static
+low_level_flash.c:222:16:ARM_Flash_Initialize	8	static
+low_level_flash.c:269:16:ARM_Flash_ProgramData	40	static
+low_level_flash.c:326:16:ARM_Flash_EraseSector	40	static

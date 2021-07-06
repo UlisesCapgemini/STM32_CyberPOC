@@ -1,0 +1,5 @@
+sst_flash.c:138:17:sst_flash_init	8	static
+sst_flash.c:143:17:sst_flash_read	8	static
+sst_flash.c:156:17:sst_flash_write	8	static
+sst_flash.c:169:17:sst_flash_block_to_block_move	288	static
+sst_flash.c:218:17:sst_flash_erase_block	8	static

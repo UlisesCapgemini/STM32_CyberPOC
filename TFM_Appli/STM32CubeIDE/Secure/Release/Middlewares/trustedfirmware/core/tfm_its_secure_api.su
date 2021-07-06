@@ -1,0 +1,4 @@
+tfm_its_secure_api.c:21:14:psa_its_set	56	static
+tfm_its_secure_api.c:64:14:psa_its_get	64	static
+tfm_its_secure_api.c:120:14:psa_its_get_info	48	static
+tfm_its_secure_api.c:164:14:psa_its_remove	40	static

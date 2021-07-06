@@ -1,0 +1,15 @@
+UsefulBuf.h:2004:24:UsefulInputBuf_GetUint32	8	static
+qcbor_decode.c:290:19:TagMapper_Lookup	28	static
+UsefulBuf.h:1705:20:UsefulOutBuf_InsertUint32	24	static
+qcbor_decode.c:1316:19:MemPool_Pack	32	static
+qcbor_decode.c:1337:18:MemPool_Function	48	static
+qcbor_decode.c:748:19:GetNext_Item	96	static
+qcbor_decode.c:927:19:GetNext_TaggedItem	144	static
+qcbor_decode.c:354:6:QCBORDecode_Init	24	static
+qcbor_decode.c:368:6:QCBORDecode_SetUpAllocator	0	static
+qcbor_decode.c:382:6:QCBORDecode_SetCallerConfiguredTagList	0	static
+qcbor_decode.c:1079:12:QCBORDecode_GetNextWithTags	80	static
+qcbor_decode.c:1161:12:QCBORDecode_GetNext	0	static
+qcbor_decode.c:1205:5:QCBORDecode_IsTagged	40	static
+qcbor_decode.c:1224:12:QCBORDecode_Finish	24	static
+qcbor_decode.c:1424:12:QCBORDecode_SetMemPool	24	static

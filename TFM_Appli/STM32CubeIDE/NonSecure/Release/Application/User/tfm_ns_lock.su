@@ -1,0 +1,2 @@
+tfm_ns_lock.c:31:9:tfm_ns_interface_dispatch	16	static,ignoring_inline_asm
+tfm_ns_lock.c:46:19:tfm_ns_interface_init	0	static

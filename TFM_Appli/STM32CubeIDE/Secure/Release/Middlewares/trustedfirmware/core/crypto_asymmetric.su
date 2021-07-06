@@ -1,0 +1,4 @@
+crypto_asymmetric.c:27:14:tfm_crypto_asymmetric_sign	48	static
+crypto_asymmetric.c:61:14:tfm_crypto_asymmetric_verify	40	static
+crypto_asymmetric.c:95:14:tfm_crypto_asymmetric_encrypt	80	static
+crypto_asymmetric.c:151:14:tfm_crypto_asymmetric_decrypt	72	static

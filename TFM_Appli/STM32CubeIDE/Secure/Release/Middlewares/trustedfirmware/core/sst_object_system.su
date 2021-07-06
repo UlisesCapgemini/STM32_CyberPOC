@@ -1,0 +1,8 @@
+sst_object_system.c:66:24:sst_remove_old_data	8	static
+sst_object_system.c:161:17:sst_system_prepare	8	static
+sst_object_system.c:184:17:sst_object_read	24	static
+sst_object_system.c:226:17:sst_object_create	48	static
+sst_object_system.c:341:17:sst_object_write	40	static
+sst_object_system.c:446:17:sst_object_get_info	24	static
+sst_object_system.c:480:17:sst_object_delete	32	static
+sst_object_system.c:526:17:sst_system_wipe_all	8	static

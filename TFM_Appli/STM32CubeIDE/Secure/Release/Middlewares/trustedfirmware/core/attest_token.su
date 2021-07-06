@@ -1,0 +1,7 @@
+attest_token.c:80:25:attest_token_start	32	static
+attest_token.c:127:21:attest_token_borrow_cbor_cntxt	0	static
+attest_token.c:136:6:attest_token_add_integer	16	static
+attest_token.c:147:6:attest_token_add_bstr	24	static
+attest_token.c:160:6:attest_token_add_tstr	24	static
+attest_token.c:171:6:attest_token_add_encoded	24	static
+attest_token.c:183:1:attest_token_finish	32	static

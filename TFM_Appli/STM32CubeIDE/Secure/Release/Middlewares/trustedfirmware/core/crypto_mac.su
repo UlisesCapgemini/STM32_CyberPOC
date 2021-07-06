@@ -1,0 +1,6 @@
+crypto_mac.c:27:14:tfm_crypto_mac_sign_setup	32	static
+crypto_mac.c:81:14:tfm_crypto_mac_verify_setup	32	static
+crypto_mac.c:135:14:tfm_crypto_mac_update	32	static
+crypto_mac.c:182:14:tfm_crypto_mac_sign_finish	32	static
+crypto_mac.c:234:14:tfm_crypto_mac_verify_finish	32	static
+crypto_mac.c:283:14:tfm_crypto_mac_abort	24	static

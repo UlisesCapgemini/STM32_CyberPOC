@@ -1,0 +1,5 @@
+flash_if.c:91:17:GetPage	0	static
+flash_if.c:113:17:GetBank	0	static
+flash_if.c:216:26:FLASH_If_Init	8	static
+flash_if.c:256:19:FLASH_If_Erase_Size	64	static
+flash_if.c:372:19:FLASH_If_Write	32	static

@@ -1,0 +1,14 @@
+target_cfg.c:69:21:enable_fault_handlers	0	static
+target_cfg.c:82:6:nvic_interrupt_target_state_cfg	0	static
+target_cfg.c:90:6:system_reset_cfg	0	static
+target_cfg.c:97:6:nvic_interrupt_enable	0	static
+target_cfg.c:103:6:enable_ns_clk_config	0	static
+target_cfg.c:110:6:pinmux_conf_init_ns	32	static
+target_cfg.c:132:6:sau_and_idau_cfg	8	static,ignoring_inline_asm
+target_cfg.c:191:7:unsecure_sram1	128	static
+target_cfg.c:234:7:unsecure_sram2	128	static
+target_cfg.c:277:7:lock_sram_config	120	static
+target_cfg.c:294:6:mpc_init_cfg	16	static,ignoring_inline_asm
+target_cfg.c:334:6:ppc_init_cfg	0	static
+target_cfg.c:342:6:ppc_clear_irq	0	static
+target_cfg.c:348:6:tfm_spm_hal_init_debug	0	static

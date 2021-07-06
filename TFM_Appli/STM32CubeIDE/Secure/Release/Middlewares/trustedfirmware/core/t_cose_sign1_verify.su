@@ -1,0 +1,2 @@
+t_cose_sign1_verify.c:136:5:parse_unprotected_headers	104	static
+t_cose_sign1_verify.c:160:19:t_cose_sign1_verify	440	static

@@ -1,0 +1,2 @@
+tfm_core_utils.c:18:7:tfm_core_util_memcpy	16	static
+tfm_core_utils.c:54:7:tfm_core_util_memset	20	static

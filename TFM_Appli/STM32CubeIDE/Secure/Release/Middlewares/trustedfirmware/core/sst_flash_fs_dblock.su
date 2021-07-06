@@ -1,0 +1,5 @@
+sst_flash_fs_dblock.c:33:17:sst_flash_fs_dblock_compact_block	56	static
+sst_flash_fs_dblock.c:102:17:sst_flash_fs_dblock_cp_data_to_scratch	48	static
+sst_flash_fs_dblock.c:124:17:sst_flash_fs_dblock_read_file	40	static
+sst_flash_fs_dblock.c:142:17:sst_flash_fs_dblock_write_file	16	static
+sst_flash_fs_dblock.c:154:17:sst_flash_fs_dblock_cp_remaining_data	24	static

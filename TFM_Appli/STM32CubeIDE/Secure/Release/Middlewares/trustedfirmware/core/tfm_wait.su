@@ -1,0 +1,2 @@
+tfm_wait.c:11:6:tfm_event_wait	8	static
+tfm_wait.c:20:6:tfm_event_wake	16	static

@@ -1,0 +1,7 @@
+crypto_cipher.c:27:14:tfm_crypto_cipher_generate_iv	40	static
+crypto_cipher.c:77:14:tfm_crypto_cipher_set_iv	32	static
+crypto_cipher.c:124:14:tfm_crypto_cipher_encrypt_setup	32	static
+crypto_cipher.c:175:14:tfm_crypto_cipher_decrypt_setup	32	static
+crypto_cipher.c:226:14:tfm_crypto_cipher_update	48	static
+crypto_cipher.c:279:14:tfm_crypto_cipher_finish	32	static
+crypto_cipher.c:331:14:tfm_crypto_cipher_abort	24	static

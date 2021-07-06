@@ -1,0 +1,6 @@
+ieee754.c:167:10:IEEE754_FloatToHalf	8	static
+ieee754.c:233:10:IEEE754_DoubleToHalf	36	static
+ieee754.c:300:7:IEEE754_HalfToFloat	0	static
+ieee754.c:362:8:IEEE754_HalfToDouble	28	static
+ieee754.c:423:15:IEEE754_FloatToSmallest	8	static
+ieee754.c:459:15:IEEE754_DoubleToSmallestInternal	48	static

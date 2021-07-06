@@ -1,0 +1,13 @@
+loader.c:223:1:boot_initialize_area	16	static
+loader.c:142:1:boot_read_image_headers	24	static
+loader.c:265:1:boot_read_sectors	16	static
+loader.c:694:1:boot_update_security_counter.constprop	24	static
+loader.c:579:1:boot_validate_slot	72	static
+loader.c:295:1:boot_status_reset	8	static
+loader.c:315:1:boot_status_is_reset	0	static
+loader.c:332:1:boot_write_status	32	static
+loader.c:735:1:boot_erase_region	0	static
+loader.c:755:1:boot_copy_region	64	static
+loader.c:1726:1:context_boot_go	152	static
+loader.c:2039:1:boot_go	0	static
+loader.c:2045:1:split_go	112	static

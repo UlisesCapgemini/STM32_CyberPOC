@@ -1,0 +1,5 @@
+fw_update_app.c:205:13:FW_UPDATE_PrintWelcome	8	static
+fw_update_app.c:218:26:FW_UPDATE_DownloadNewFirmware.constprop	24	static
+fw_update_app.c:83:6:FW_UPDATE_Run	48	static,ignoring_inline_asm
+fw_update_app.c:302:19:Ymodem_HeaderPktRxCpltCallback	8	static
+fw_update_app.c:327:19:Ymodem_DataPktRxCpltCallback	24	static

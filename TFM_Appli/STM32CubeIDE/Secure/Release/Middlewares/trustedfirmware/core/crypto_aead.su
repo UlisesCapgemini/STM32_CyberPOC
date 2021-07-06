@@ -1,0 +1,2 @@
+crypto_aead.c:27:14:tfm_crypto_aead_encrypt	88	static
+crypto_aead.c:79:14:tfm_crypto_aead_decrypt	88	static

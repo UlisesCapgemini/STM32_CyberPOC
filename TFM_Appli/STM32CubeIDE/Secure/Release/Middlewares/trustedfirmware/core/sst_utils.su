@@ -1,0 +1,2 @@
+sst_utils.c:10:17:sst_utils_check_contained_in	0	static
+sst_utils.c:30:17:sst_utils_validate_fid	0	static

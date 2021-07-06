@@ -1,0 +1,15 @@
+sst_flash_fs_mblock.c:644:24:sst_mblock_write_scratch_meta_header	0	static
+sst_flash_fs_mblock.c:736:24:sst_init_get_active_metablock	24	static
+sst_flash_fs_mblock.c:790:17:sst_flash_fs_mblock_cp_remaining_file_meta	24	static
+sst_flash_fs_mblock.c:825:10:sst_flash_fs_mblock_cur_data_scratch_id	0	static
+sst_flash_fs_mblock.c:858:17:sst_flash_fs_mblock_init	8	static
+sst_flash_fs_mblock.c:884:17:sst_flash_fs_mblock_meta_update_finalize	8	static
+sst_flash_fs_mblock.c:932:17:sst_flash_fs_mblock_read_file_meta	0	static
+sst_flash_fs_mblock.c:835:17:sst_flash_fs_mblock_get_file_idx	40	static
+sst_flash_fs_mblock.c:952:17:sst_flash_fs_mblock_read_block_metadata	0	static
+sst_flash_fs_mblock.c:903:17:sst_flash_fs_mblock_migrate_lb0_data_to_scratch	40	static
+sst_flash_fs_mblock.c:973:17:sst_flash_fs_mblock_reserve_file	56	static
+sst_flash_fs_mblock.c:991:17:sst_flash_fs_mblock_reset_metablock	56	static
+sst_flash_fs_mblock.c:1092:6:sst_flash_fs_mblock_set_data_scratch	0	static
+sst_flash_fs_mblock.c:1099:17:sst_flash_fs_mblock_update_scratch_block_meta	48	static
+sst_flash_fs_mblock.c:1123:17:sst_flash_fs_mblock_update_scratch_file_meta	0	static

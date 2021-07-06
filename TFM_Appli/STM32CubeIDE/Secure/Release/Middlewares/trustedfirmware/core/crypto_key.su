@@ -1,0 +1,11 @@
+crypto_key.c:41:14:tfm_crypto_check_handle_owner	24	static
+crypto_key.c:73:14:tfm_crypto_allocate_key	32	static
+crypto_key.c:124:14:tfm_crypto_import_key	24	static
+crypto_key.c:157:14:tfm_crypto_destroy_key	16	static
+crypto_key.c:196:14:tfm_crypto_get_key_information	4	static
+crypto_key.c:223:14:tfm_crypto_export_key	4	static
+crypto_key.c:248:14:tfm_crypto_export_public_key	4	static
+crypto_key.c:273:14:tfm_crypto_copy_key	0	static
+crypto_key.c:302:14:tfm_crypto_set_key_policy	16	static
+crypto_key.c:334:14:tfm_crypto_get_key_policy	0	static
+crypto_key.c:359:14:tfm_crypto_get_key_lifetime	0	static

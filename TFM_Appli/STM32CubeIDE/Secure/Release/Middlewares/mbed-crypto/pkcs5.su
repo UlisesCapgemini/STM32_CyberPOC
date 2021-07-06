@@ -1,0 +1,2 @@
+pkcs5.c:223:5:mbedtls_pkcs5_pbkdf2_hmac	184	static
+pkcs5.c:114:5:mbedtls_pkcs5_pbes2	272	static

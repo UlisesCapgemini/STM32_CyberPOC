@@ -1,0 +1,2 @@
+dummy_crypto_keys.c:41:21:tfm_plat_get_crypto_huk	48	static
+dummy_crypto_keys.c:64:21:tfm_plat_get_initial_attest_key	24	static

@@ -1,0 +1,2 @@
+t_cose_util.c:31:9:hash_alg_id_from_sig_alg_id	0	static
+t_cose_util.c:88:19:create_tbs_hash	304	static

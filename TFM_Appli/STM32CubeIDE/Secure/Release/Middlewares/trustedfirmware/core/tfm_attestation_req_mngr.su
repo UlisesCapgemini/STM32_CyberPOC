@@ -1,0 +1,4 @@
+tfm_attestation_req_mngr.c:64:30:psa_attest_get_token_size	40	static
+tfm_attestation_req_mngr.c:24:30:psa_attest_get_token	608	static
+tfm_attestation_req_mngr.c:110:13:attest_signal_handle	56	static
+tfm_attestation_req_mngr.c:133:23:attest_partition_init	16	static

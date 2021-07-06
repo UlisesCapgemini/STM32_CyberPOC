@@ -1,0 +1,4 @@
+dummy_nv_counters.c:59:21:tfm_plat_init_nv_counter	4104	static
+dummy_nv_counters.c:108:21:tfm_plat_read_nv_counter	8	static
+dummy_nv_counters.c:128:21:tfm_plat_set_nv_counter	4112	static
+dummy_nv_counters.c:172:21:tfm_plat_increment_nv_counter	16	static

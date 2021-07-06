@@ -1,0 +1,15 @@
+its_flash_fs_mblock.c:585:21:its_mblock_write_scratch_meta_header	0	static
+its_flash_fs_mblock.c:676:21:its_init_get_active_metablock	24	static
+its_flash_fs_mblock.c:730:14:its_flash_fs_mblock_cp_remaining_file_meta	24	static
+its_flash_fs_mblock.c:765:10:its_flash_fs_mblock_cur_data_scratch_id	0	static
+its_flash_fs_mblock.c:798:14:its_flash_fs_mblock_init	8	static
+its_flash_fs_mblock.c:822:14:its_flash_fs_mblock_meta_update_finalize	8	static
+its_flash_fs_mblock.c:867:14:its_flash_fs_mblock_read_file_meta	0	static
+its_flash_fs_mblock.c:775:14:its_flash_fs_mblock_get_file_idx	56	static
+its_flash_fs_mblock.c:887:14:its_flash_fs_mblock_read_block_metadata	0	static
+its_flash_fs_mblock.c:839:14:its_flash_fs_mblock_migrate_lb0_data_to_scratch	40	static
+its_flash_fs_mblock.c:908:14:its_flash_fs_mblock_reserve_file	64	static
+its_flash_fs_mblock.c:1029:6:its_flash_fs_mblock_set_data_scratch	0	static
+its_flash_fs_mblock.c:1036:14:its_flash_fs_mblock_update_scratch_block_meta	48	static
+its_flash_fs_mblock.c:1058:14:its_flash_fs_mblock_update_scratch_file_meta	0	static
+its_flash_fs_mblock.c:928:14:its_flash_fs_mblock_reset_metablock	64	static

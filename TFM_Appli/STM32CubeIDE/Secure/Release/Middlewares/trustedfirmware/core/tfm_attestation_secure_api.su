@@ -1,0 +1,2 @@
+tfm_attestation_secure_api.c:22:1:psa_initial_attest_get_token	40	static
+tfm_attestation_secure_api.c:65:1:psa_initial_attest_get_token_size	48	static

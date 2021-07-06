@@ -1,0 +1,6 @@
+crypto_hash.c:27:14:tfm_crypto_hash_setup	24	static
+crypto_hash.c:75:14:tfm_crypto_hash_update	32	static
+crypto_hash.c:122:14:tfm_crypto_hash_finish	32	static
+crypto_hash.c:174:14:tfm_crypto_hash_verify	32	static
+crypto_hash.c:223:14:tfm_crypto_hash_abort	24	static
+crypto_hash.c:271:14:tfm_crypto_hash_clone	24	static

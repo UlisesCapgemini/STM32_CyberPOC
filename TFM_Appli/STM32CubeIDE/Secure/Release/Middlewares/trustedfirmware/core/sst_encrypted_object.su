@@ -1,0 +1,3 @@
+sst_encrypted_object.c:44:24:sst_object_set_encryption_key	8	static
+sst_encrypted_object.c:166:17:sst_encrypted_object_read	56	static
+sst_encrypted_object.c:200:17:sst_encrypted_object_write	56	static

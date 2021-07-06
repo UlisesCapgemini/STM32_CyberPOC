@@ -1,0 +1,3 @@
+tfm_core_mem_check.c:29:26:has_access_to_region	16	static
+tfm_core_mem_check.c:55:19:tfm_core_has_read_access_to_region	0	static
+tfm_core_mem_check.c:72:19:tfm_core_has_write_access_to_region	0	static

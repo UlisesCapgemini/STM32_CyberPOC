@@ -1,0 +1,2 @@
+boot_record.c:293:1:boot_add_data_to_shared_area	32	static
+boot_record.c:361:1:boot_save_boot_status	104	static

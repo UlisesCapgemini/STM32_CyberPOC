@@ -1,0 +1,5 @@
+psa_client.c:17:10:psa_framework_version	0	static,ignoring_inline_asm
+psa_client.c:25:10:psa_version	0	static,ignoring_inline_asm
+psa_client.c:33:14:psa_connect	0	static,ignoring_inline_asm
+psa_client.c:52:14:psa_call	0	static,ignoring_inline_asm
+psa_client.c:66:6:psa_close	0	static,ignoring_inline_asm

@@ -1,0 +1,7 @@
+tfm_sst_ipc_api.c:16:17:psa_ps_set	72	static
+tfm_sst_ipc_api.c:52:17:psa_ps_get	80	static
+tfm_sst_ipc_api.c:88:17:psa_ps_get_info	64	static
+tfm_sst_ipc_api.c:120:17:psa_ps_remove	56	static
+tfm_sst_ipc_api.c:151:17:psa_ps_create	0	static
+tfm_sst_ipc_api.c:161:17:psa_ps_set_extended	0	static
+tfm_sst_ipc_api.c:172:10:psa_ps_get_support	40	static

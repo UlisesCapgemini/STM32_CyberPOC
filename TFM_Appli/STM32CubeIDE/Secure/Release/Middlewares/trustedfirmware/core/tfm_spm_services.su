@@ -1,0 +1,5 @@
+tfm_spm_services.c:22:6:jump_to_ns_code	8	static
+tfm_spm_services.c:79:9:tfm_core_get_boot_data	0	static,ignoring_inline_asm
+tfm_spm_services.c:89:9:tfm_core_get_boot_value	0	static,ignoring_inline_asm
+tfm_spm_services.c:99:6:tfm_enable_irq	0	static,ignoring_inline_asm
+tfm_spm_services.c:107:6:tfm_disable_irq	0	static,ignoring_inline_asm

@@ -1,0 +1,4 @@
+crypto_alloc.c:87:14:tfm_crypto_init_alloc	8	static
+crypto_alloc.c:94:14:tfm_crypto_operation_alloc	32	static
+crypto_alloc.c:132:14:tfm_crypto_operation_release	32	static
+crypto_alloc.c:159:14:tfm_crypto_operation_lookup	24	static

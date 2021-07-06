@@ -1,0 +1,3 @@
+test_framework_helpers.c:12:13:psa_ps_status_to_str	0	static
+test_framework_helpers.c:46:13:asset_perms_to_str	0	static
+test_framework_helpers.c:71:6:printf_set_color	0	static

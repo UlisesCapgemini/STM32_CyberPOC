@@ -1,0 +1,8 @@
+tfm_arch_v8m_main.c:69:29:PendSV_Handler	0	static,ignoring_inline_asm
+tfm_arch_v8m_main.c:86:6:tfm_arch_initialize_ctx_ext	0	static
+tfm_arch_v8m_main.c:153:6:SecureFault_Handler	16	static,ignoring_inline_asm
+tfm_arch_v8m_main.c:193:29:SVC_Handler	0	static,ignoring_inline_asm
+tfm_arch_v8m_main.c:209:29:MemManage_Handler	0	static,ignoring_inline_asm
+tfm_arch_v8m_main.c:214:29:BusFault_Handler	0	static,ignoring_inline_asm
+tfm_arch_v8m_main.c:218:29:UsageFault_Handler	0	static,ignoring_inline_asm
+tfm_arch_v8m_main.c:223:6:tfm_arch_prioritize_secure_exception	0	static

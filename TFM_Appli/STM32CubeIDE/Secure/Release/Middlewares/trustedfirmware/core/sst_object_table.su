@@ -1,0 +1,12 @@
+sst_object_table.c:759:24:sst_get_object_entry_idx	24	static
+sst_object_table.c:824:13:sst_table_delete_entry	8	static
+sst_object_table.c:279:24:sst_object_table_set_crypto_key	8	static
+sst_object_table.c:539:24:sst_object_table_save_table.constprop	16	static
+sst_object_table.c:839:17:sst_object_table_create	8	static
+sst_object_table.c:869:17:sst_object_table_init	40	static
+sst_object_table.c:948:17:sst_object_table_obj_exist	16	static
+sst_object_table.c:955:17:sst_object_table_get_free_fid	16	static
+sst_object_table.c:991:17:sst_object_table_set_obj_tbl_info	80	static
+sst_object_table.c:1047:17:sst_object_table_get_obj_tbl_info	24	static
+sst_object_table.c:1072:17:sst_object_table_delete_object	64	static
+sst_object_table.c:1108:17:sst_object_table_delete_old_table	0	static

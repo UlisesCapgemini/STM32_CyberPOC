@@ -1,0 +1,5 @@
+its_flash.c:133:14:its_flash_init	8	static
+its_flash.c:138:14:its_flash_read	8	static
+its_flash.c:151:14:its_flash_write	8	static
+its_flash.c:164:14:its_flash_block_to_block_move	280	static
+its_flash.c:209:14:its_flash_erase_block	8	static

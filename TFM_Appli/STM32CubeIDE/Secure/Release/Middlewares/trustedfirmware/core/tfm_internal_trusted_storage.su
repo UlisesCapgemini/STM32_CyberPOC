@@ -1,0 +1,5 @@
+tfm_internal_trusted_storage.c:32:14:tfm_its_init	8	static
+tfm_internal_trusted_storage.c:66:14:tfm_its_set	40	static
+tfm_internal_trusted_storage.c:118:14:tfm_its_get	24	static
+tfm_internal_trusted_storage.c:162:14:tfm_its_get_info	32	static
+tfm_internal_trusted_storage.c:189:14:tfm_its_remove	24	static

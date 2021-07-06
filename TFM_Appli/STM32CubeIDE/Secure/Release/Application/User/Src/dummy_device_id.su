@@ -1,0 +1,3 @@
+dummy_device_id.c:47:21:tfm_plat_get_instance_id	8	static
+dummy_device_id.c:69:21:tfm_plat_get_implementation_id	8	static
+dummy_device_id.c:90:21:tfm_plat_get_hw_version	0	static

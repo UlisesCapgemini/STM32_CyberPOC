@@ -1,0 +1,8 @@
+its_flash_fs.c:43:14:its_flash_fs_prepare	0	static
+its_flash_fs.c:49:14:its_flash_fs_wipe_all	0	static
+its_flash_fs.c:55:14:its_flash_fs_file_exist	16	static
+its_flash_fs.c:68:14:its_flash_fs_file_create	96	static
+its_flash_fs.c:171:14:its_flash_fs_file_get_info	56	static
+its_flash_fs.c:202:14:its_flash_fs_file_write	72	static
+its_flash_fs.c:297:14:its_flash_fs_file_delete	80	static
+its_flash_fs.c:413:14:its_flash_fs_file_read	64	static

@@ -1,0 +1,1 @@
+ecdsa_alt.c:229:5:mbedtls_ecdsa_verify	120	static

@@ -1,0 +1,4 @@
+tfm_its_ipc_api.c:16:14:psa_its_set	56	static
+tfm_its_ipc_api.c:46:14:psa_its_get	64	static
+tfm_its_ipc_api.c:87:14:psa_its_get_info	48	static
+tfm_its_ipc_api.c:118:14:psa_its_remove	40	static

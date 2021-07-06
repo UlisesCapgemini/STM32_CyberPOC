@@ -1,0 +1,11 @@
+tfm_thread.c:98:13:exit_zone	0	static,ignoring_inline_asm
+tfm_thread.c:36:22:tfm_thrd_next_thread	0	static
+tfm_thread.c:46:22:tfm_thrd_curr_thread	0	static
+tfm_thread.c:85:6:tfm_thrd_init	8	static
+tfm_thread.c:156:6:tfm_thrd_set_status	8	static
+tfm_thread.c:132:10:tfm_thrd_start	40	static
+tfm_thread.c:165:6:tfm_thrd_activate_schedule	0	static
+tfm_thread.c:170:6:tfm_thrd_start_scheduler	8	static
+tfm_thread.c:185:6:tfm_svcall_thrd_exit	0	static
+tfm_thread.c:192:6:tfm_thrd_exit	0	static,ignoring_inline_asm
+tfm_thread.c:200:6:tfm_thrd_context_switch	16	static

@@ -1,0 +1,4 @@
+tfm_secure_api.c:17:9:tfm_bitcount	0	static
+tfm_secure_api.c:27:6:tfm_is_one_bit_set	0	static
+tfm_secure_api.c:32:19:check_address_range	8	static
+tfm_secure_api.c:55:6:tfm_secure_api_error_handler	8	static

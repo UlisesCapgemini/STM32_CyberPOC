@@ -1,0 +1,6 @@
+tfm_protected_storage.c:12:17:tfm_sst_init	8	static
+tfm_protected_storage.c:46:17:tfm_sst_set	4	static
+tfm_protected_storage.c:65:17:tfm_sst_get	4	static
+tfm_protected_storage.c:79:17:tfm_sst_get_info	4	static
+tfm_protected_storage.c:91:17:tfm_sst_remove	8	static
+tfm_protected_storage.c:114:10:tfm_sst_get_support	0	static

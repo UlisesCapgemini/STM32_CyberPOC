@@ -1,0 +1,10 @@
+psa_service.c:18:14:psa_wait	0	static,ignoring_inline_asm
+psa_service.c:28:14:psa_get	0	static,ignoring_inline_asm
+psa_service.c:36:6:psa_set_rhandle	0	static,ignoring_inline_asm
+psa_service.c:44:8:psa_read	0	static,ignoring_inline_asm
+psa_service.c:54:8:psa_skip	0	static,ignoring_inline_asm
+psa_service.c:62:6:psa_write	0	static,ignoring_inline_asm
+psa_service.c:71:6:psa_reply	0	static,ignoring_inline_asm
+psa_service.c:79:6:psa_notify	0	static,ignoring_inline_asm
+psa_service.c:87:6:psa_clear	0	static,ignoring_inline_asm
+psa_service.c:95:6:psa_eoi	0	static,ignoring_inline_asm

@@ -1,0 +1,8 @@
+tfm_app.c:281:13:tfm_app_print_menu	8	static
+tfm_app.c:304:13:tfm_sst_set_uid.isra.0	64	static
+tfm_app.c:337:13:tfm_sst_read_uid.isra.1	112	static
+tfm_app.c:361:13:tfm_its_set_uid.isra.3	64	static
+tfm_app.c:394:13:tfm_its_read_uid.isra.4	112	static
+tfm_app.c:414:6:dump_eat_token	40	static
+tfm_app.c:440:13:tfm_eat_test_circuit_sig.isra.6.constprop	728	static
+tfm_app.c:95:6:tfm_app_menu	56	static

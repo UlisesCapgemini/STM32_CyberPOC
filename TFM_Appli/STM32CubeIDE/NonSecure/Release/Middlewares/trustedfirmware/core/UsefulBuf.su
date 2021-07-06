@@ -1,0 +1,9 @@
+UsefulBuf.c:64:12:UsefulBuf_CopyOffset	32	static
+UsefulBuf.c:80:5:UsefulBuf_Compare	16	static
+UsefulBuf.c:97:8:UsefulBuf_IsValue	24	static
+UsefulBuf.c:120:8:UsefulBuf_FindBytes	56	static
+UsefulBuf.c:141:6:UsefulOutBuf_Init	8	static
+UsefulBuf.c:199:6:UsefulOutBuf_InsertUsefulBuf	24	static
+UsefulBuf.c:294:12:UsefulOutBuf_OutUBuf	8	static
+UsefulBuf.c:314:12:UsefulOutBuf_CopyOut	56	static
+UsefulBuf.c:333:14:UsefulInputBuf_GetBytes	8	static

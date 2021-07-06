@@ -1,0 +1,7 @@
+attestation_core.c:147:16:attest_get_tlv_by_module	20	static
+attestation_core.c:244:1:attest_add_sw_component_claim	8	static
+attestation_core.c:200:16:attest_get_tlv_by_id.constprop	24	static
+attestation_core.c:872:1:attest_create_token	328	static
+attestation_core.c:55:23:attest_init	0	static
+attestation_core.c:975:1:initial_attest_get_token	32	static
+attestation_core.c:1026:1:initial_attest_get_token_size	32	static
